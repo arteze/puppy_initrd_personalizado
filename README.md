@@ -1,0 +1,2 @@
+# puppy_initrd_personalizado
+puppy_initrd_personalizado
