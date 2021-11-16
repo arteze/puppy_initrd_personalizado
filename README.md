@@ -1,8 +1,8 @@
 # puppy_initrd_personalizado
 
-Modificación del initrd del PuppyLinux.
+Modificación del initrd del PuppyLinux. Todavía no funciona, es experimental.
 
-Todavía no funciona, es experimental.
+- El objetivo es: __No usar enlaces simbólicos.__
 
 Adaptación para teclado roto.
 
